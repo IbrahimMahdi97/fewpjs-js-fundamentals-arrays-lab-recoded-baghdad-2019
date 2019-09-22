@@ -6,3 +6,4 @@ const removeLast = pets;
 const removeFirst = pets;
 append.push('Odie');
 prepend.unshift('Odie');
+removeLast()
