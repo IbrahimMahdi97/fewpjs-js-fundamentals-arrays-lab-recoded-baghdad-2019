@@ -1,5 +1,5 @@
 // Write your solution here!
-let pets = ['Milo', 'Otis', 'Garfieled'];
+let pets = ['Milo', 'Otis', 'Garfield'];
 const append = pets;
 const prepend = pets;
 const removeLast = pets;
